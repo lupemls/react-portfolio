@@ -35,7 +35,7 @@ const projects = [
     name: "Note Taker",
     image: note,
     repo: "https://github.com/lupemls/note-taker",
-    deployed: "",
+    deployed: "https://damp-brook-96413.herokuapp.com/",
   },
   {
     name: "Arcade Quest",
