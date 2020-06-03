@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/lupemls.github.io/react-portfolio/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/lupemls.github.io/react-portfolio/static/js/main.e83b20da.chunk.js",
-    "main.js.map": "/lupemls.github.io/react-portfolio/static/js/main.e83b20da.chunk.js.map",
-    "runtime-main.js": "/lupemls.github.io/react-portfolio/static/js/runtime-main.5c94206c.js",
-    "runtime-main.js.map": "/lupemls.github.io/react-portfolio/static/js/runtime-main.5c94206c.js.map",
-    "static/js/2.c51a2f87.chunk.js": "/lupemls.github.io/react-portfolio/static/js/2.c51a2f87.chunk.js",
-    "static/js/2.c51a2f87.chunk.js.map": "/lupemls.github.io/react-portfolio/static/js/2.c51a2f87.chunk.js.map",
-    "index.html": "/lupemls.github.io/react-portfolio/index.html",
-    "precache-manifest.e6d0eda1a2a5d5332f226914cef1315f.js": "/lupemls.github.io/react-portfolio/precache-manifest.e6d0eda1a2a5d5332f226914cef1315f.js",
-    "service-worker.js": "/lupemls.github.io/react-portfolio/service-worker.js",
-    "static/css/main.5ecd60fb.chunk.css.map": "/lupemls.github.io/react-portfolio/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.c51a2f87.chunk.js.LICENSE.txt": "/lupemls.github.io/react-portfolio/static/js/2.c51a2f87.chunk.js.LICENSE.txt",
-    "static/media/Resume.pdf": "/lupemls.github.io/react-portfolio/static/media/Resume.2eab9e36.pdf",
-    "static/media/arcade-quest.png": "/lupemls.github.io/react-portfolio/static/media/arcade-quest.79153bd1.png",
-    "static/media/atari-portal.png": "/lupemls.github.io/react-portfolio/static/media/atari-portal.2e285006.png",
-    "static/media/day-planner.png": "/lupemls.github.io/react-portfolio/static/media/day-planner.aef598e3.png",
-    "static/media/note-taker.jpg": "/lupemls.github.io/react-portfolio/static/media/note-taker.f6a1e104.jpg",
-    "static/media/profile-pic-small.jpg": "/lupemls.github.io/react-portfolio/static/media/profile-pic-small.c32a5a0d.jpg",
-    "static/media/rps-kombat.jpg": "/lupemls.github.io/react-portfolio/static/media/rps-kombat.dd28952e.jpg",
-    "static/media/weather-dashboard.png": "/lupemls.github.io/react-portfolio/static/media/weather-dashboard.4a07428e.png"
+    "main.css": "/react-portfolio/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.c94abf2e.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.c94abf2e.chunk.js.map",
+    "runtime-main.js": "/react-portfolio/static/js/runtime-main.8c64cdeb.js",
+    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.8c64cdeb.js.map",
+    "static/js/2.c51a2f87.chunk.js": "/react-portfolio/static/js/2.c51a2f87.chunk.js",
+    "static/js/2.c51a2f87.chunk.js.map": "/react-portfolio/static/js/2.c51a2f87.chunk.js.map",
+    "index.html": "/react-portfolio/index.html",
+    "precache-manifest.8b24c3ba54e67456f328669c0f7f785b.js": "/react-portfolio/precache-manifest.8b24c3ba54e67456f328669c0f7f785b.js",
+    "service-worker.js": "/react-portfolio/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/react-portfolio/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.c51a2f87.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.c51a2f87.chunk.js.LICENSE.txt",
+    "static/media/Resume.pdf": "/react-portfolio/static/media/Resume.2eab9e36.pdf",
+    "static/media/arcade-quest.png": "/react-portfolio/static/media/arcade-quest.79153bd1.png",
+    "static/media/atari-portal.png": "/react-portfolio/static/media/atari-portal.2e285006.png",
+    "static/media/day-planner.png": "/react-portfolio/static/media/day-planner.aef598e3.png",
+    "static/media/note-taker.jpg": "/react-portfolio/static/media/note-taker.f6a1e104.jpg",
+    "static/media/profile-pic-small.jpg": "/react-portfolio/static/media/profile-pic-small.c32a5a0d.jpg",
+    "static/media/rps-kombat.jpg": "/react-portfolio/static/media/rps-kombat.dd28952e.jpg",
+    "static/media/weather-dashboard.png": "/react-portfolio/static/media/weather-dashboard.4a07428e.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.5c94206c.js",
+    "static/js/runtime-main.8c64cdeb.js",
     "static/js/2.c51a2f87.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.e83b20da.chunk.js"
+    "static/js/main.c94abf2e.chunk.js"
   ]
 }
