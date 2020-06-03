@@ -1,0 +1,39 @@
+@media screen and (min-width: 576px) {
+    section {
+        width: 75%;
+        margin: auto;
+    }
+}
+
+body {
+    background-image: url("./images/footer_lodyas.png"); 
+}
+
+.link{
+    color: rgb(240, 232, 214);
+    padding: 10px;
+}
+
+.navbar {
+    background: rgb(22, 102, 104);
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
+.footer {
+    background: rgb(22, 102, 104);
+    color: rgb(240, 232, 214);
+    bottom: 0;
+    left: 0;
+    padding: 5px;
+    position: fixed;
+    text-align: center;
+    width: 100%;
+}
+
+.prime, .d-block{
+    background: rgb(56, 140, 114);
+    color: rgb(240, 232, 214);
+}
