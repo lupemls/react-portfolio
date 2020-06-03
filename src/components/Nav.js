@@ -24,11 +24,11 @@ function Nav() {
               <li class="nav-item">
                 <Link to="/" className="link">About</Link>
               </li>
-              <li class="nav-item" className="link">
-                <Link to="/portfolio">Portfolio</Link>
+              <li class="nav-item">
+                <Link to="/portfolio" className="link">Portfolio</Link>
               </li>
-              <li class="nav-item" className="link">
-                <Link to="/contact">Contact</Link>
+              <li class="nav-item">
+                <Link to="/contact" className="link">Contact</Link>
 
               </li>
             </ul>
