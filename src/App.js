@@ -14,7 +14,7 @@ function App() {
       <div className="App">
         <Header></Header>
         <Switch>
-            <Route exact path="/">
+            <Route exact path={["/","lupemls.github.io/react-portfolio"]}>
               <Main />
             </Route>
             <Route path="/portfolio">
